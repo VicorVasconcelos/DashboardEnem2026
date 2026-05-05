@@ -51,21 +51,6 @@ python dashboard_enem.py
 python backend/app/main.py
 ```
 
-## Como subir este README para o GitHub
-
-Se você quiser que eu faça o push automaticamente a partir desta máquina, autorize-me a executar `git` aqui. Senão, execute os comandos abaixo no diretório do projeto:
-
-```bash
-git init
-git add README.md
-git commit -m "Add README"
-git remote add origin https://github.com/VicorVasconcelos/DashboardEnem2026.git
-git branch -M main
-git push -u origin main
-```
-
-Observação: o `git push` exigirá credenciais (token ou SSH) configuradas localmente.
-
 ## Contribuição
 
 Abra uma issue ou envie um pull request com melhorias e correções.
